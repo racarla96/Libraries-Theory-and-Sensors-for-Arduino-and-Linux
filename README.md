@@ -1,13 +1,13 @@
 # Libraries and Sensors
 
-## Indoor Positioning System
+## [Indoor Positioning System](https://en.wikipedia.org/wiki/Indoor_positioning_system)
 ### [Marvelmind](https://marvelmind.com/)
 #### Arduino - UART/Serial
 [Marvelmind Arduino Library](https://github.com/racarla96/Marvelmind_Arduino_Library)
 #### Linux - UART/Serial
 [Marvelmind Website - Download](https://marvelmind.com/download/) -> Marvelmind SW pack 
 
-## Attitude and heading reference system (AHRS)
+## [Attitude and heading reference system (AHRS)](https://en.wikipedia.org/wiki/Attitude_and_heading_reference_system)
 ### BNO055
 #### Arduino - I2C
 [Adafruit BNO055](https://github.com/adafruit/Adafruit_BNO055)
