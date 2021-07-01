@@ -15,6 +15,7 @@
 ##### Protocol: I2C -> [Adafruit_BNO055_Linux](https://github.com/racarla96/Adafruit_BNO055_Linux)
 #### Linux - ROS
 ##### Protocol: UART/Serial -> [ros_imu_bno055](http://wiki.ros.org/ros_imu_bno055) - [github repo](https://github.com/RoboticArts/ros_imu_bno055)
+##### Protocol: UART/Serial -> [bosch_imu_driver](https://github.com/mdrwiega/bosch_imu_driver)
 ##### Protocol: I2C -> [ros-imu-bno055](https://github.com/dheera/ros-imu-bno055)
 ### ICM-20948 
 #### Arduino
