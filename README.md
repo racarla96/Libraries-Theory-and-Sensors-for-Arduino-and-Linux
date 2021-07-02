@@ -1,5 +1,9 @@
 # Libraries and Sensors
 
+## General Repositories
+### Top User -> [pronenewbits](https://github.com/pronenewbits?tab=repositories) 
+#### Arduino & Linux -> Model Predictive Control, Unscented Kalman Filter, Extended Kalman Filter
+
 ## [Indoor Positioning System](https://en.wikipedia.org/wiki/Indoor_positioning_system)
 ### [Marvelmind](https://marvelmind.com/)
 #### Arduino
@@ -8,7 +12,8 @@
 ##### Protocol: UART/Serial -> [Marvelmind Website - Download](https://marvelmind.com/download/) -> Marvelmind SW pack 
 
 ## [Attitude and heading reference system (AHRS)](https://en.wikipedia.org/wiki/Attitude_and_heading_reference_system)
-### BNO055
+### Library -> [Arduino_AHRS_System](https://github.com/pronenewbits/Arduino_AHRS_System)
+### Sensor -> BNO055
 #### Arduino
 ##### Protocol: I2C -> [Adafruit BNO055](https://github.com/adafruit/Adafruit_BNO055)
 #### Linux
