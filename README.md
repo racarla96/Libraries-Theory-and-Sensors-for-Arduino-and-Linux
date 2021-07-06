@@ -1,4 +1,4 @@
-# Libraries and Sensors
+# Libraries, Theory and Sensors
 
 ## General Repositories & Libraries
 ### Top User -> [pronenewbits](https://github.com/pronenewbits?tab=repositories) 
@@ -28,3 +28,7 @@
 ### ICM-20948 
 #### Arduino
 ##### Protocol: I2C - SPI -> [SparkFun ICM-20948 Arduino Library](https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary)
+
+
+## Bode Identification System
+### [Bode Part 6: Experiments on a DC Motor + Beam System](https://www.youtube.com/watch?v=Syg1q3JO978)
