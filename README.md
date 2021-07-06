@@ -3,6 +3,9 @@
 ## General Repositories & Libraries
 ### Top User -> [pronenewbits](https://github.com/pronenewbits?tab=repositories) 
 #### Arduino & Linux -> Model Predictive Control, Unscented Kalman Filter, Extended Kalman Filter
+### [Robotics Lab](https://roboticslab-uc3m.github.io/developer-manual/appendix/repository-index.html)
+#### Linux -> [Installation Guides](https://roboticslab-uc3m.github.io/installation-guides/)
+
 
 ## [Indoor Positioning System](https://en.wikipedia.org/wiki/Indoor_positioning_system)
 ### [Marvelmind](https://marvelmind.com/)
