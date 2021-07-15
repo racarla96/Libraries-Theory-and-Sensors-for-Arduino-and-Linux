@@ -57,3 +57,4 @@ General purpose library for sensor fusion raw data into angles and another usefu
 ### [Engineering Media - Briang Douglas](https://engineeringmedia.com/)
 ### [Resorcium - Briang Douglas](https://resourcium.org/)
 ### [Undocumented MATLAB](https://undocumentedmatlab.com/)
+### [Control Systems Academy](http://controlsystemsacademy.com/index.html)
