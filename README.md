@@ -1,14 +1,14 @@
 # Libraries, Theory and Sensors for Arduino and Linux
 
 ## General Repositories & Libraries
-### Top Github User -> [pronenewbits](https://github.com/pronenewbits?tab=repositories) 
+### - Top Github User -> [pronenewbits](https://github.com/pronenewbits?tab=repositories) 
 #### Arduino & Linux -> Model Predictive Control, Unscented Kalman Filter, Extended Kalman Filter
-#### [Robotics Lab](https://roboticslab-uc3m.github.io/developer-manual/appendix/repository-index.html)
+### - [Robotics Lab](https://roboticslab-uc3m.github.io/developer-manual/appendix/repository-index.html)
 #### Linux -> [Installation Guides](https://roboticslab-uc3m.github.io/installation-guides/)
 
 
 ## [Indoor Positioning System](https://en.wikipedia.org/wiki/Indoor_positioning_system)
-### [Marvelmind](https://marvelmind.com/)
+### - [Marvelmind](https://marvelmind.com/)
 #### Arduino
 ##### Protocol: UART/Serial -> [Marvelmind Arduino Library](https://github.com/racarla96/Marvelmind_Arduino_Library)
 #### Linux
@@ -16,6 +16,7 @@
 
 ## [Attitude and heading reference system (AHRS)](https://en.wikipedia.org/wiki/Attitude_and_heading_reference_system)
 ### Library -> [Arduino_AHRS_System](https://github.com/pronenewbits/Arduino_AHRS_System)
+General purpose library for sensor fusion raw data into angles and another useful information 
 ### Sensor -> BNO055
 #### Arduino
 ##### Protocol: I2C -> [Adafruit BNO055](https://github.com/adafruit/Adafruit_BNO055)
