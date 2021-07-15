@@ -3,9 +3,9 @@
 &nbsp;
 
 ## General Repositories & Libraries
-### - Top Github User -> [pronenewbits](https://github.com/pronenewbits?tab=repositories) 
+### Top Github User -> [pronenewbits](https://github.com/pronenewbits?tab=repositories) 
 #### Arduino & Linux -> Model Predictive Control, Unscented Kalman Filter, Extended Kalman Filter
-### - [Robotics Lab](https://roboticslab-uc3m.github.io/developer-manual/appendix/repository-index.html)
+### [Robotics Lab](https://roboticslab-uc3m.github.io/developer-manual/appendix/repository-index.html)
 #### Linux -> [Installation Guides](https://roboticslab-uc3m.github.io/installation-guides/)
 
 &nbsp;
