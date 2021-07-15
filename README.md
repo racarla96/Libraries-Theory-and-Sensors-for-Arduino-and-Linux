@@ -1,11 +1,14 @@
 # Libraries, Theory and Sensors for Arduino and Linux
 
+&nbsp;
+
 ## General Repositories & Libraries
 ### - Top Github User -> [pronenewbits](https://github.com/pronenewbits?tab=repositories) 
 #### Arduino & Linux -> Model Predictive Control, Unscented Kalman Filter, Extended Kalman Filter
 ### - [Robotics Lab](https://roboticslab-uc3m.github.io/developer-manual/appendix/repository-index.html)
 #### Linux -> [Installation Guides](https://roboticslab-uc3m.github.io/installation-guides/)
 
+&nbsp;
 
 ## [Indoor Positioning System](https://en.wikipedia.org/wiki/Indoor_positioning_system)
 ### - [Marvelmind](https://marvelmind.com/)
@@ -13,6 +16,8 @@
 ##### Protocol: UART/Serial -> [Marvelmind Arduino Library](https://github.com/racarla96/Marvelmind_Arduino_Library)
 #### Linux
 ##### Protocol: UART/Serial -> [Marvelmind Website - Download](https://marvelmind.com/download/) -> Marvelmind SW pack 
+
+&nbsp;
 
 ## [Attitude and heading reference system (AHRS)](https://en.wikipedia.org/wiki/Attitude_and_heading_reference_system)
 ### Library -> [Arduino_AHRS_System](https://github.com/pronenewbits/Arduino_AHRS_System)
@@ -30,6 +35,19 @@ General purpose library for sensor fusion raw data into angles and another usefu
 #### Arduino
 ##### Protocol: I2C - SPI -> [SparkFun ICM-20948 Arduino Library](https://github.com/sparkfun/SparkFun_ICM-20948_ArduinoLibrary)
 
+&nbsp;
 
-## Bode Identification System
-### [Bode Part 6: Experiments on a DC Motor + Beam System](https://www.youtube.com/watch?v=Syg1q3JO978)
+## System Identification 
+### Using Bode
+#### [Bode Part 6: Experiments on a DC Motor + Beam System](https://www.youtube.com/watch?v=Syg1q3JO978)
+
+&nbsp;
+
+## Youtube Channels
+### [Briang Douglas](https://www.youtube.com/user/ControlLectures)
+
+&nbsp;
+
+## Webpages
+### [Engineering Media - Briang Douglas](https://engineeringmedia.com/)
+### [Resorcium - Briang Douglas](https://resourcium.org/)
