@@ -1,4 +1,4 @@
-# Libraries, Theory and Sensors
+# Libraries, Theory and Sensors for Arduino and Linux
 
 ## General Repositories & Libraries
 ### Top User -> [pronenewbits](https://github.com/pronenewbits?tab=repositories) 
